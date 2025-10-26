@@ -5,4 +5,4 @@ if N < 0:
     print(f"minus")
 
 else:
-    pritn(f"{N}")
+    print(f"{N}")
