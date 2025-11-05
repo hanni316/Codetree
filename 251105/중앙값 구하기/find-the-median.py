@@ -3,5 +3,5 @@ if A<B and B<C:
     print (B)
 elif B<A and A<C:
     print (A)
-else:
+elif A<C and C<B:
     print (C)
